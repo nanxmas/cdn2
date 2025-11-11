@@ -1,0 +1,26 @@
+[
+  {
+    "id": "r8eejzy1i",
+    "cn": "池袋Sunshine City",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/870/images/r8eejzy1i-1734971492900.jpg",
+    "ep": "1",
+    "s": "1042",
+    "geo": [
+      35.7293,
+      139.7182
+    ]
+  },
+  {
+    "id": "92h5m2",
+    "cn": "水之广场公园（东京国际会展中心）",
+    "name": "水の広場公園（東京ビッグサイト）",
+    "image": "https://image.xinu.ink/pic/data/870/images/92h5m2-1747558739283.jpg",
+    "ep": "28",
+    "s": "1：05",
+    "geo": [
+      35.6292,
+      139.7908
+    ]
+  }
+]
