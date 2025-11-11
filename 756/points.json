@@ -1,0 +1,272 @@
+[
+  {
+    "id": "k7e4u01uz",
+    "name": "大崎山公園",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u01uz_1715144910612.jpg",
+    "ep": 1,
+    "s": 1,
+    "geo": [
+      37.6165,
+      139.0014
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.6165%2C139.001426&z=17"
+  },
+  {
+    "id": "k7e4u033c",
+    "name": "一新橋",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u033c_1715144912500.jpg",
+    "ep": 1,
+    "s": 3,
+    "geo": [
+      37.6283,
+      138.9639
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.628324%2C138.963978&z=17"
+  },
+  {
+    "id": "k7e4u0335",
+    "name": "シェアスペース＆ライブラリー 燕三条トライク",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u0335_1715144913596.jpg",
+    "ep": 1,
+    "s": 265,
+    "geo": [
+      37.6295,
+      138.9614
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.629542%2C138.961447&z=17"
+  },
+  {
+    "id": "k7e4u02su",
+    "name": "ＴＲＥＥ",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u02su_1715144915603.jpg",
+    "ep": 2,
+    "s": 926,
+    "geo": [
+      37.6294,
+      138.9633
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.629452%2C138.963395&z=17"
+  },
+  {
+    "id": "k7e4u031w",
+    "name": "カネギフルーツ",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u031w_1715144917990.jpg",
+    "ep": 8,
+    "s": 1167,
+    "geo": [
+      37.6285,
+      138.9651
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.628536%2C138.965153&z=17"
+  },
+  {
+    "id": "k7e4u02mx",
+    "name": "八幡公園",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u02mx_1715144918883.jpg",
+    "ep": 4,
+    "s": 1129,
+    "geo": [
+      37.6335,
+      138.9506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.633569%2C138.9506&z=17"
+  },
+  {
+    "id": "k7e4u032u",
+    "name": "JR北三条駅",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u032u_1715144919760.jpg",
+    "ep": 6,
+    "s": 303,
+    "geo": [
+      37.6327,
+      138.9557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.632745%2C138.955754&z=17"
+  },
+  {
+    "id": "k7e4u0313",
+    "name": "ステージえんがわ",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u0313_1715144922264.jpg",
+    "ep": 7,
+    "s": 1218,
+    "geo": [
+      37.6325,
+      138.9546
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.63258%2C138.954611&z=17"
+  },
+  {
+    "id": "k7e4u03ax",
+    "name": "野積海水浴場",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u03ax_1715144923855.jpg",
+    "ep": 6,
+    "s": 1019,
+    "geo": [
+      37.6977,
+      138.7844
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.697739%2C138.784446&z=17"
+  },
+  {
+    "id": "k7e4u02ta",
+    "name": "新発田城跡",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u02ta_1723439917165.jpg",
+    "ep": 6,
+    "s": 948,
+    "geo": [
+      37.9549,
+      139.3259
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.954936%2C139.325972&z=17"
+  },
+  {
+    "id": "k7e4u03bk",
+    "name": "一ノ木戸商店街",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u03bk_1715144915013.jpg",
+    "ep": 2,
+    "s": "",
+    "geo": [
+      37.6295,
+      138.9621
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.629556%2C138.962139&z=17"
+  },
+  {
+    "id": "k7e4u037t",
+    "name": "弥彦山 パノラマタワー",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u037t_1715144923118.jpg",
+    "ep": 6,
+    "s": "",
+    "geo": [
+      37.7104,
+      138.8102
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.710499%2C138.810294&z=17"
+  },
+  {
+    "id": "k7e4u036y",
+    "name": "三条スパイス研究所 スパイスカレー",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u036y_1744632183572.jpg",
+    "ep": 8,
+    "s": 1191,
+    "geo": [
+      37.6325,
+      138.9548
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.632552%2C138.954813&z=17"
+  },
+  {
+    "id": "unnhyglfk",
+    "name": "DIY粉丝基地",
+    "image": "https://image.xinu.ink/pic/data/756/images/unnhyglfk_1744630075932.jpg",
+    "ep": 1,
+    "s": 1308,
+    "geo": [
+      37.6285,
+      138.9643
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unno1ahcq",
+    "name": "树屋",
+    "image": "https://image.xinu.ink/pic/data/756/images/unno1ahcq_1744630461689.jpg",
+    "ep": 12,
+    "s": 92,
+    "geo": [
+      37.6324,
+      138.9546
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unobmcerx",
+    "name": "八幡公园",
+    "image": "https://image.xinu.ink/pic/data/756/images/unobmcerx_1744631855849.jpg",
+    "ep": 8,
+    "s": 1164,
+    "geo": [
+      37.6335,
+      138.9505
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unoeunwwo",
+    "name": "JR北三条駅内",
+    "image": "https://image.xinu.ink/pic/data/756/images/unoeunwwo_1744632070870.jpg",
+    "ep": 6,
+    "s": 295,
+    "geo": [
+      37.6326,
+      138.9556
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unog12tvc",
+    "name": "雪橇椅子",
+    "image": "https://image.xinu.ink/pic/data/756/images/unog12tvc_1744632123397.jpg",
+    "ep": 2,
+    "s": 1127,
+    "geo": [
+      37.6324,
+      138.9546
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unolvydgq",
+    "name": "河边",
+    "image": "https://image.xinu.ink/pic/data/756/images/unolvydgq_1744632487629.jpg",
+    "ep": 12,
+    "s": 827,
+    "geo": [
+      37.6283,
+      138.964
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3mxpr5m",
+    "name": "三条一ノ木戸郵便局",
+    "image": "https://image.xinu.ink/pic/data/756/images/3mxpr5m-1754927685231.jpg",
+    "ep": null,
+    "geo": [
+      37.6295,
+      138.9632
+    ],
+    "origin": "动画官推",
+    "originLink": "https://x.com/diy_anime/status/1931597229900628360"
+  },
+  {
+    "id": "5tt0cx8",
+    "cn": "在研究所的旁边在10月5号新加了一个DIY官方的阴井盖",
+    "name": "37.632514, 138.95506",
+    "image": "https://image.xinu.ink/pic/data/756/images/5tt0cx8-1759696600110.jpg",
+    "ep": null,
+    "geo": [
+      37.6325,
+      138.955
+    ]
+  }
+]
